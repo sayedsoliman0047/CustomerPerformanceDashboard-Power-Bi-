@@ -63,7 +63,7 @@ To help stakeholders understand:
 
 ## 🎥 Video Walkthrough
 
-A full dashboard demonstration is available in the attached `demo_video.mp4`.
+A full dashboard demonstration is available in the attached `video.mp4`.
 
 ---
 
