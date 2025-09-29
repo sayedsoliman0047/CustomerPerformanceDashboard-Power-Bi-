@@ -45,7 +45,7 @@ To help stakeholders understand:
 ## 🧰 Tools Used
 
 - **Power BI**
-- **Excel / CSV**
+- **Excel**
 
 ---
 
