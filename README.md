@@ -53,11 +53,11 @@ To help stakeholders understand:
 
 ### 🌞 Light Theme
 
-![Light Theme](LightTheme_Dashboard.png)
+![Light Theme]([LightTheme_Dashboard.png](https://github.com/sayedsoliman0047/CustomerPerformanceDashboard-Power-Bi-/blob/main/Light%20Theme%20Dashboard.png))
 
 ### 🌚 Dark Theme
 
-![Dark Theme](DarkTheme_Dashboard.png)
+![Dark Theme]([DarkTheme_Dashboard.png](https://github.com/sayedsoliman0047/CustomerPerformanceDashboard-Power-Bi-/blob/main/Light%20Theme%20Dashboard.png))
 
 ---
 
