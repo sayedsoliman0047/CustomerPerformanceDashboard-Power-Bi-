@@ -1,8 +1,8 @@
-# 📊 Customer Performance Dashboard – Mechanical Components Store
+#  Customer Performance Dashboard – Mechanical Components Store
 
 This repository features a Power BI dashboard project that analyzes customer performance for a **mechanical components store** selling items such as Adjustable Race, Bearing Ball, Blade, LL Crankarm, Chainring Nut, and Decal.
 
-## 🎯 Objective
+##  Objective
 
 To help stakeholders understand:
 - Customer demographics (age, gender, parental status)
@@ -13,7 +13,7 @@ To help stakeholders understand:
 
 ---
 
-## 💡 Key Features
+##  Key Features
 
 - 🌙 **Dark & Light Theme Support**
 - 🌐 **Country Filter** for regional analysis
@@ -26,9 +26,8 @@ To help stakeholders understand:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
-📦 MechanicalComponentsDashboard/
 
 ─ 📊 CustomerDashboard.pbix # Power BI file
 ─ 📈 dataset.csv # Source dataset
@@ -42,14 +41,14 @@ To help stakeholders understand:
 
 ---
 
-## 🧰 Tools Used
+##  Tools Used
 
 - **Power BI**
 - **Excel**
 
 ---
 
-## 📷 Dashboard Previews
+##  Dashboard Previews
 
 ### 🌞 Light Theme
 
@@ -61,13 +60,13 @@ To help stakeholders understand:
 
 ---
 
-## 🎥 Video Walkthrough
+##  Video Walkthrough
 
 A full dashboard demonstration is available in the attached `video.mp4`.
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 This Power BI dashboard provides a comprehensive view of customer demographics, buying behavior, and revenue segmentation for a mechanical components store. It enables clear, actionable insights to inform marketing and business decisions.
 
